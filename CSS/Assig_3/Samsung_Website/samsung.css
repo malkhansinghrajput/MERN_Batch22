@@ -1,0 +1,131 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#header {
+    height: 8%;
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+    padding: 1.5%;
+    cursor: pointer;
+}
+
+#header_para1 {
+    font-size: x-large;
+}
+
+#section1{
+    height: 40%;
+    padding: 7%;
+    background-image: url('banner-light.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.section1_par1{
+    height: 10%;
+    font-weight: bolder;
+    font-size: xxx-large;
+    padding: 0.1%;
+}
+#section1_button{
+    height: 3%;
+    width: 10%;
+    padding: 1%;
+    margin-top: 2%;
+    margin-left: 4%;
+}
+
+#section2{
+    height: 40%;
+    display: flex;
+    justify-content: space-around;
+    padding: 3%;
+}
+.section2_cl{
+    height: 3%;
+    width: 20%;
+    padding: 1%;
+}
+
+.section2_para1{
+    height: 20%;
+    margin-bottom: 10%;
+    font-size: xx-large;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    padding: 3%;
+}
+
+#section3{
+    height: 40%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: -2%;
+    padding: 1%;
+}
+
+#section4{
+    height: 20%;
+    padding: 0.5%;
+    margin-top: -1%;
+    margin-left: 2%;
+    
+}
+
+
+#section5{
+    height: 1%;
+    padding: 2%;
+    margin-bottom: -1%;
+    
+}
+
+#section6{
+    
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+    
+}
+#section6_para2{
+    font-size: xx-large;
+    color: grey;
+    margin-left: 43%;
+}
+#section6_para1{
+    margin-top: 1%;
+
+}
+
+
+#section7{
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+#section7{
+    display: flex;
+    margin-left: 8.5%;
+}
+#section7{
+    margin-right: 8%;
+    color: grey;
+    margin-bottom: 3%;
+}
+
+
+
