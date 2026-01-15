@@ -1,0 +1,19 @@
+ * {
+        box-sizing: border-box;
+      }
+      button {
+        background-color: blue;
+        padding: 2px;
+        width: 40%;
+        border-radius: 10px;
+        margin: 0 auto;
+        z-index: 0;
+      }
+      form {
+        color: brown;
+        text-align: center;
+        width: 60%;
+        margin: 0 auto;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        background-color: lightgoldenrodyellow;
+      }
